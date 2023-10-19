@@ -1,3 +1,7 @@
+Her har jeg skrevet koden for å lage et norgesflagg. Har brukt metoden med å bygge det fra toppen og nedover, 
+med rektangler i ulike farger og størrelser. Har definert figurene jeg brukte til flagget på toppen, og bygget på nedover. 
+Noen av figurene er brukt flere ganger. 
+
 use context essentials2021
 red-1 = rectangle( 100, 70, "solid", "red" )
 red-1
